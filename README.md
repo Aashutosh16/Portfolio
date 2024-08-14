@@ -1,6 +1,6 @@
 # Aashutosh Dubey - Personal Portfolio Website
 
-![Portfolio Screenshot]![image](https://github.com/user-attachments/assets/55afe74e-e6b8-4645-be2e-9d340d062bc8)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/55afe74e-e6b8-4645-be2e-9d340d062bc8)
 
 ## 📝 Description
 
@@ -18,6 +18,7 @@ Welcome to my personal portfolio website! This is a fully responsive and user-fr
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+- **SASS**
 
 ## 🎨 Sections
 
@@ -34,24 +35,19 @@ Check out the live version of my portfolio [here](https://your-live-portfolio-li
 ## 📷 Screenshots
 
 ### Home Section
-![Home Section]![image](https://github.com/user-attachments/assets/99734d39-e6d8-4870-a47e-bdd4921b44c2)
-
+![Home Section](https://github.com/user-attachments/assets/99734d39-e6d8-4870-a47e-bdd4921b44c2)
 
 ### About Section
-![About Section]![image](https://github.com/user-attachments/assets/1d568d16-aaee-4ca3-9a44-cf6ea89c1e91)
-
+![About Section](https://github.com/user-attachments/assets/1d568d16-aaee-4ca3-9a44-cf6ea89c1e91)
 
 ### Skills Section
-![Skills Section]![image](https://github.com/user-attachments/assets/9cc53c67-c872-4e4e-8315-1a616e36336b)
-
+![Skills Section](https://github.com/user-attachments/assets/9cc53c67-c872-4e4e-8315-1a616e36336b)
 
 ### Work Section
-![Work Section]![image](https://github.com/user-attachments/assets/82d2d8cb-cea6-4031-abbc-89393b02434d)
-
+![Work Section](https://github.com/user-attachments/assets/82d2d8cb-cea6-4031-abbc-89393b02434d)
 
 ### Contact Section
-![Contact Section]![image](https://github.com/user-attachments/assets/6f3dc284-5b9c-48ba-97f8-312223dd1adb)
-
+![Contact Section](https://github.com/user-attachments/assets/6f3dc284-5b9c-48ba-97f8-312223dd1adb)
 
 ## 🧑‍💻 Author
 
